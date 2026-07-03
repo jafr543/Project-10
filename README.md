@@ -57,7 +57,7 @@ The UI features a premium, modern dark slate background texture designed to repl
 [Click here to watch the system walk-through and features demo video](Project-Demo.mp4)
 
 ### ?Main Interface Dashboardface Dashboard**
-  ![Main Interface](RestaurantForm)
-  ![Pizza Form](PizzaForm)
-  ![Burger Form](BurgerForm)
-  ![Drinks_Sides From](Drinks_SidesFrom)
+  ![Main Interface](Images/RestaurantForm.PNG)
+  ![Pizza Form](Images/PizzaForm.PNG)
+  ![Burger Form](Images/BurgerForm.PNG)
+  ![Drinks_Sides From](Images/Drinks_SidesFrom.PNG)
