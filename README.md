@@ -38,9 +38,6 @@ By receiving the abstract base class type, the main form handles any menu item p
 *   UI Framework: Windows Forms (WinForms)
 *   IDE: Visual Studio 2022
 
-https://github.com/user-attachments/assets/3306a57c-617b-4919-a84c-23e7f88034f5
-
-
 
 ---
 
@@ -58,8 +55,7 @@ https://github.com/user-attachments/assets/3306a57c-617b-4919-a84c-23e7f88034f5
 The UI features a premium, modern dark slate background texture designed to replicate contemporary night-delivery apps:
 
 ### 📺 Video Demonstration
-<video src="Project-Demo.mp4" controls width="100%"></video>
-
+https://github.com/user-attachments/assets/3306a57c-617b-4919-a84c-23e7f88034f5
 ### Main Interface Dashboardface Dashboard**
   ![Main Interface](Images/RestaurantForm.PNG)
   ![Pizza Form](Images/PizzaForm.PNG)
