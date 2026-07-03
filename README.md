@@ -38,6 +38,10 @@ By receiving the abstract base class type, the main form handles any menu item p
 *   UI Framework: Windows Forms (WinForms)
 *   IDE: Visual Studio 2022
 
+https://github.com/user-attachments/assets/3306a57c-617b-4919-a84c-23e7f88034f5
+
+
+
 ---
 
 ## 📂 Project Structure Explained
