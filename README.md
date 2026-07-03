@@ -54,9 +54,9 @@ By receiving the abstract base class type, the main form handles any menu item p
 The UI features a premium, modern dark slate background texture designed to replicate contemporary night-delivery apps:
 
 ### 📺 Video Demonstration
-[Click here to watch the system walk-through and features demo video](Project-Demo.mp4)
+<video src="Project-Demo.mp4" controls width="100%"></video>
 
-### ?Main Interface Dashboardface Dashboard**
+### Main Interface Dashboardface Dashboard**
   ![Main Interface](Images/RestaurantForm.PNG)
   ![Pizza Form](Images/PizzaForm.PNG)
   ![Burger Form](Images/BurgerForm.PNG)
